@@ -2,6 +2,9 @@
 
 ![Uber Logo](uber.png)
 
+<img width="1429" alt="Screenshot 2025-01-04 at 3 42 44 AM" src="https://github.com/user-attachments/assets/f057569b-865a-4594-b2c1-848b9fca5613" />
+
+
 ## Overview
 This repository contains an in-depth analysis of Uber ride data, showcasing patterns, trends, and insights into ride behaviors. The project utilizes advanced tools like Python and Tableau to analyze and visualize the dataset effectively.
 
